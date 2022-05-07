@@ -103,3 +103,5 @@ After running the simulation, it will display the cycle time statistics.
 Make necessary changes based on shift working time. And update the shift in each activity and queue block based on station operational time.
 
 ![image](https://user-images.githubusercontent.com/103962807/167256159-80ca992a-a27b-481c-84ee-fcfa77aae2da.png)
+
+All this steps will help in creating a ExtendSim Model. Using other library blocks depending upon the process flow.
